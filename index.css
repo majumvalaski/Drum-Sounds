@@ -5,13 +5,17 @@
 }
 
 .keys {
-    padding: .6rem 1.2 rem;
+    padding: 1rem 1.2rem;
     font-family: arial; 
+    font-size: 30px;
     color: black;
     background-color: white;
-    border-radius: 0.25rem;
-    margin-top: -1rem;
+    border-radius: 0.5rem;
+    border-style:groove;
+    border-color: black;
+    margin-top: 20rem;
     margin-left: 3rem;
     transition: 0.08s;
+    display: inline-flex;
 }
 
